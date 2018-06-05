@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Tracy's Awesome Blog !!!
 header-img: img/home-bg.png
 email: tracy@flatironschool.com
 copyright_name: tracylum
 description: > # this means to ignore newlines until "baseurl:"
-  
+  this is my cool blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: Tracidini
 github_username:  tracylum
